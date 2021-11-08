@@ -4,4 +4,5 @@ Aim of the project was developing an implementation of the paper Synthesis and S
 
 Final output of the project were a report (available here) and a powerpoint presentation.
 
-![](gif/swingup.gif)
+https://user-images.githubusercontent.com/88314834/140782492-60893c0b-e8df-41f3-a3ca-2f86c4fb262d.mp4
+
